@@ -1,0 +1,22 @@
+[
+    { "es": "el aire acondicionado", "en": "air conditioning" },
+    { "es": "el baño", "en": "bathroom" },
+    { "es": "la cama", "en": "bed" },
+    { "es": "la cocina", "en": "kitchen" },
+    { "es": "la computadora", "en": "computer" },
+    { "es": "el cuarto", "en": "bedroom" },
+    { "es": "las escaleras", "en": "stairs" },
+    { "es": "el escritorio", "en": "desk" },
+    { "es": "la estantería", "en": "bookshelf" },
+    { "es": "el dormitorio", "en": "bedroom" },
+    { "es": "la lámpara", "en": "lamp" },
+    { "es": "las llaves", "en": "keys" },
+    { "es": "la mesa", "en": "table" },
+    { "es": "la puerta", "en": "door" },
+    { "es": "el reloj", "en": "clock" },
+    { "es": "la sala", "en": "living room" },
+    { "es": "la silla", "en": "chair" },
+    { "es": "el sillón", "en": "chair" },
+    { "es": "el sofá", "en": "couch" },
+    { "es": "el teléfono", "en": "telephone" }
+]

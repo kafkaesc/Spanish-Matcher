@@ -1,0 +1,19 @@
+[
+    { "es": "el bolígrafo", "en": "pen" },
+    { "es": "la calculadora", "en": "calculator" },
+    { "es": "el colega/la colega", "en": "coworker" },
+    { "es": "la computadora", "en": "computer"},
+    { "es": "el correo electrónico", "en": "email" },
+    { "es": "el correo", "en": "mail" },
+    { "es": "el escritorio", "en": "desk" },
+    { "es": "la grapa", "en": "staple"},
+    { "es": "la grapadora", "en": "stapler" },
+    { "es": "un lápiz", "en": "pencil" },
+    { "es": "el jefe/la jefa", "en": "boss" },
+    { "es": "la oficina", "en": "office" },
+    { "es": "el papel", "en": "paper" },
+    { "es": "la profesión", "en": "profession" },
+    { "es": "la silla", "en": "chair" },
+    { "es": "el teclado", "en": "keyboard" },
+    { "es": "el trabajo", "en": "job"}
+]
