@@ -1,0 +1,36 @@
+#MenuLogo {
+    display: block;
+    margin: 0 auto;
+    max-width: 256px;
+}
+
+.menuLabel {
+    text-align: center;
+}
+
+.menuWrapper {
+    display: block;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+ul.vocabMenu {
+    padding: 0;
+}
+
+ul.vocabMenu li {
+    border: solid 4px #fff;
+    color: #fff;
+    font-size: 2em;
+    list-style: none;
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+ul.vocabMenu li:hover {
+    border: solid 4px #b54a32;
+    color: #000;
+    cursor: pointer;
+    background-color: #fff;;
+}
